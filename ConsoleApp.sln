@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_MVVM", "WPF_MVVM\WPF_MVVM.csproj", "{71C46625-CFAE-47DC-A239-30FF6EDC3A7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{DF61AEBB-0024-44AC-B51E-3ED164A1B016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewPreperation", "InterviewPreperation\InterviewPreperation.csproj", "{2511B9D0-E07E-4E98-9F2E-12DDB143FFCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{71C46625-CFAE-47DC-A239-30FF6EDC3A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71C46625-CFAE-47DC-A239-30FF6EDC3A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71C46625-CFAE-47DC-A239-30FF6EDC3A7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF61AEBB-0024-44AC-B51E-3ED164A1B016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF61AEBB-0024-44AC-B51E-3ED164A1B016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF61AEBB-0024-44AC-B51E-3ED164A1B016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF61AEBB-0024-44AC-B51E-3ED164A1B016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2511B9D0-E07E-4E98-9F2E-12DDB143FFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2511B9D0-E07E-4E98-9F2E-12DDB143FFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2511B9D0-E07E-4E98-9F2E-12DDB143FFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2511B9D0-E07E-4E98-9F2E-12DDB143FFCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
